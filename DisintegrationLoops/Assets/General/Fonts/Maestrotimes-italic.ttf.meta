@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd1d7672915de4d2eba249104c55cff4
+timeCreated: 1486255543
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MaestroTimes
+  fontNames:
+  - MaestroTimes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
